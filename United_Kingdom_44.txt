@@ -5,6 +5,7 @@
 
 
 $downrank,site=youtube.com
+$downrank,site=netflix.com
 $downrank,site=facebook.com
 $downrank,site=reddit.com
 $downrank,site=wikipedia.org
