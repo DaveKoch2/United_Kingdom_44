@@ -6,6 +6,8 @@
 
 
 $discard,site=google.com
+$discard,site=adobe.com
+$discard,site=shutterstock.comm
 $discard,site=youtube.com
 $discard,site=facebook.com
 $discard,site=amazon.com
